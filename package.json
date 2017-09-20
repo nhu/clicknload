@@ -1,0 +1,12 @@
+{
+  "name": "clicknload",
+  "version": "1.0.0",
+  "main": "lib/main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node lib/main.js"
+  },
+  "dependencies": {
+    "yargs": "^9.0.1"
+  }
+}
